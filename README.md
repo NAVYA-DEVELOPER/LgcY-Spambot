@@ -16,6 +16,7 @@
    - `STRING SESSION` :  Make a string session from [here](https://replit.com/@SAJALMAURYA/Berlin-Spambot#main.py)
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/NAVYA-DEVELOPER/LgcY-Spambot&envs=STRING,STRING2,STRING3,STRING4,STRING5,STRING6,STRING7,STRING8,STRING9,STRING10,STRING11,STRING12,STRING13,STRING14,STRING15,STRING16,STRING17,STRING18,STRING19,STRING20,SUDO,API_ID,API_HASH)
 
 ## Deployments
 
